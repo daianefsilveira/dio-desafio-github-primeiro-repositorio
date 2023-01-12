@@ -1,0 +1,4 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+Objetos Internos do Git: Blob, Tree e Commit.
+
+Link para download do Git : https://git-scm.com/downloads
